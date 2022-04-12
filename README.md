@@ -1,3 +1,7 @@
+## hoc higher order component code example . 
+### the commented code is left in purpose to show case the difference in the code of each component before and after the HOC implementation.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
